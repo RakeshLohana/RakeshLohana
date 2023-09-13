@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshlohana&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshlohana" /> </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshlohana" alt="rakeshlohana" /></a> </p>
 
 - 🔭 I’m currently working on **chatApp in Flutter**
