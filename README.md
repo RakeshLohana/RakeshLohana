@@ -1,7 +1,13 @@
+
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
 <h3 align="center">A Full Stack App Developer From Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshlohana&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshlohana" /> </p>
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Flutter+Developer;Always+Learning+New+Things;Love+To+Code+Beautiful+Designs" alt="Typing SVG" />
+</div>
+
 
 - 🔭 I’m currently working on **chatApp in Flutter**
 
