@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
-<h3 align="center">A Full Stack App Developer From Pakistan</h3>
+<h3 align="center">A Full stack app and web Developer From Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshlohana&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshlohana" /> </p>
 
@@ -9,11 +9,11 @@
 </div>
 
 
-- 🔭 I’m currently working on **chatApp in Flutter**
+- 🔭 I’m currently working on **E-commerce and chat app**
 
-- 🌱 I’m currently learning **.Net7 WebApi and Entity Framework**
+- 🌱 I’m currently learning **Java Springboot and microservices**
 
-- 💬 Ask me about **Flutter,Dart**
+- 💬 Ask me about **Flutter,Dart,Java, Springboot**
 
 - 📫 How to reach me **rakeshlohana15@gmail.com**
 
